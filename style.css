@@ -80,3 +80,6 @@ p{
     border:red;
     color:red;
 }
+.name,.icon{
+    cursor:pointer;
+}
