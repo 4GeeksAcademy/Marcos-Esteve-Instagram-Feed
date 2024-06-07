@@ -1,0 +1,37 @@
+body{
+    background: rgb(227, 236, 228);
+    
+}
+.wrapper {
+    background-color: white;
+    font-family: "Montserrat";
+    font-size: 28px;
+    text-align: center;
+    width:500px;
+    border-radius:5px;
+    border: 0.2mm solid grey;
+    position:relative;
+    
+    
+}
+.post{
+    background-color: white;
+    border: 0.2mm solid grey;
+    width: 100%;
+    display:inline-block;
+    margin-top: 80px;
+    height: 500px;
+    
+
+}
+#name {
+    float:left;
+    border: 0.2 solid black;
+    padding: 10px;
+
+}
+#fecha {
+    text-align: right;
+    padding:10px;
+
+}
